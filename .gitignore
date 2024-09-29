@@ -1,0 +1,5 @@
+# Envrionment files 
+.env
+
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
